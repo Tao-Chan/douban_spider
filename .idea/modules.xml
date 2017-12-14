@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/Cnki_spider/.idea/Cnki_spider.iml" filepath="E:/Cnki_spider/.idea/Cnki_spider.iml" />
+      <module fileurl="file://E:/Dr_spider/.idea/Dr_spider.iml" filepath="E:/Dr_spider/.idea/Dr_spider.iml" />
+      <module fileurl="file://E:/Hot_pot/.idea/Hot_pot.iml" filepath="E:/Hot_pot/.idea/Hot_pot.iml" />
+      <module fileurl="file://E:/Parser_test/.idea/Parser_test.iml" filepath="E:/Parser_test/.idea/Parser_test.iml" />
+      <module fileurl="file://E:/X_Code/.idea/X_Code.iml" filepath="E:/X_Code/.idea/X_Code.iml" />
+      <module fileurl="file://E:/book/.idea/book.iml" filepath="E:/book/.idea/book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/douban_spider.iml" filepath="$PROJECT_DIR$/.idea/douban_spider.iml" />
+    </modules>
+  </component>
+</project>

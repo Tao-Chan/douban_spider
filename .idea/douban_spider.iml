@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Parser_test" />
+    <orderEntry type="module" module-name="Dr_spider" />
+    <orderEntry type="module" module-name="Hot_pot" />
+    <orderEntry type="module" module-name="Cnki_spider" />
+    <orderEntry type="module" module-name="X_Code" />
+    <orderEntry type="module" module-name="book" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="py.test" />
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
+  </component>
+</module>
